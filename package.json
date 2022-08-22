@@ -1,0 +1,23 @@
+{
+  "name": "m40yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arditti93/m40yargs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arditti93/m40yargs/issues"
+  },
+  "homepage": "https://github.com/Arditti93/m40yargs#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
